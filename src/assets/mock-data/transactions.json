@@ -1,0 +1,49 @@
+{
+  "021000021": [
+    {
+      "id": "1619677467934",
+      "timestamp": 1619677467000,
+      "action": "debit",
+      "description": "initial deposit",
+      "amount": 0,
+      "balance": 0,
+      "currency": "US$"
+    },
+    {
+      "id": "1619687467934",
+      "timestamp": 1619687467000,
+      "action": "debit",
+      "description": "first deposit",
+      "amount": 900,
+      "balance": 900,
+      "currency": "US$"
+    },
+    {
+      "id": "1619697467934",
+      "timestamp": 1619697467000,
+      "action": "credit",
+      "description": "first credit",
+      "amount": 100,
+      "balance": 800,
+      "currency": "US$"
+    },
+    {
+      "id": "1619707467934",
+      "timestamp": 1619707467000,
+      "action": "debit",
+      "description": "third deposit",
+      "amount": 700,
+      "balance": 1500,
+      "currency": "US$"
+    },
+    {
+      "id": "1619717467934",
+      "timestamp": 1619717467000,
+      "action": "credit",
+      "description": "second credit",
+      "amount": 50,
+      "balance": 1450,
+      "currency": "US$"
+    }
+  ]
+}

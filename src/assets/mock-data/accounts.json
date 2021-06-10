@@ -1,0 +1,20 @@
+[
+  {
+    "id": "021000021",
+    "label": "Account 1",
+    "currency": "US$",
+    "balance": 1450
+  },
+  {
+    "id": "011401533",
+    "label": "Account 2",
+    "currency": "US$",
+    "balance": 0
+  },
+  {
+    "id": "091000019",
+    "label": "Account 3",
+    "currency": "US$",
+    "balance": 0
+  }
+]

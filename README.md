@@ -28,6 +28,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 yarn test
 ```
 
+### Generate test coverage
+
+```bash
+yarn test:coverage
+```
+
+Coverage will be generated in the coverage folder. To view it as an html open coverage/Icov-report/index.html in a browser
+
 ## Build the project
 
 ```bash
