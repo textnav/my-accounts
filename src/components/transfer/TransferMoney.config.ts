@@ -177,6 +177,11 @@ export const updateValuesAndValidity = (
     newHelperText.transferAmount = `Max amount: ${newValue}${
       balance * multiplier
     }`;
+    if (values.transferAmount > balance * multiplier) {
+      newErrors.transferAmount = true;
+    } else {
+      newErrors.transferAmount = false;
+    }
     newValues.currency = newValue;
   }
   if (fieldValues.hasOwnProperty("description")) {
