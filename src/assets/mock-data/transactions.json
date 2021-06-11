@@ -3,7 +3,7 @@
     {
       "id": "1619677467934",
       "timestamp": 1619677467000,
-      "action": "debit",
+      "action": "credit",
       "description": "initial deposit",
       "amount": 0,
       "balance": 0,
@@ -12,7 +12,7 @@
     {
       "id": "1619687467934",
       "timestamp": 1619687467000,
-      "action": "debit",
+      "action": "credit",
       "description": "first deposit",
       "amount": 900,
       "balance": 900,
@@ -21,7 +21,7 @@
     {
       "id": "1619697467934",
       "timestamp": 1619697467000,
-      "action": "credit",
+      "action": "debit",
       "description": "first credit",
       "amount": 100,
       "balance": 800,
@@ -30,7 +30,7 @@
     {
       "id": "1619707467934",
       "timestamp": 1619707467000,
-      "action": "debit",
+      "action": "credit",
       "description": "third deposit",
       "amount": 700,
       "balance": 1500,
@@ -39,10 +39,39 @@
     {
       "id": "1619717467934",
       "timestamp": 1619717467000,
-      "action": "credit",
+      "action": "debit",
       "description": "second credit",
       "amount": 50,
       "balance": 1450,
+      "currency": "US$"
+    }
+  ],
+  "091000019": [
+    {
+      "id": "1619677463457934",
+      "timestamp": 1619678467000,
+      "action": "credit",
+      "description": "initial deposit",
+      "amount": 0,
+      "balance": 0,
+      "currency": "US$"
+    },
+    {
+      "id": "1619677434579398",
+      "timestamp": 1619778467000,
+      "action": "credit",
+      "description": "initial deposit",
+      "amount": 4000,
+      "balance": 4000,
+      "currency": "US$"
+    },
+    {
+      "id": "1619647434579398",
+      "timestamp": 1619888467000,
+      "action": "credit",
+      "description": "initial deposit",
+      "amount": 6000,
+      "balance": 10000,
       "currency": "US$"
     }
   ]
