@@ -1,6 +1,6 @@
-# My Accounts App
+# My Accounts App [`Check Demo`](https://textnav.github.io/my-accounts/)
 
-It's a bank account app which can perform the following tasks
+It's a bank account app which can perform the following tasks.
 
 - Display account balance for the selected account of an user
 - Allow transfer of funds from one account to another in a currency of choice
