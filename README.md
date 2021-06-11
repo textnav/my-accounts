@@ -1,5 +1,20 @@
 # My Accounts App [`Check Demo`](https://textnav.github.io/my-accounts/)
 
+[![CodeQL](https://github.com/textnav/my-accounts/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/textnav/my-accounts/actions/workflows/codeql-analysis.yml)
+![license](https://img.shields.io/github/license/textnav/my-accounts.svg)
+![ISSUES](https://img.shields.io/github/issues/textnav/my-accounts.svg)
+![Pull Requests](https://img.shields.io/github/issues-pr/textnav/my-accounts.svg)
+![forks](https://img.shields.io/github/forks/textnav/my-accounts.svg)
+![stars](https://img.shields.io/github/stars/textnav/my-accounts.svg)
+![watchers](https://img.shields.io/github/watchers/textnav/my-accounts.svg)
+
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![REACH ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
 It's a bank account app which can perform the following tasks.
 
 - Display account balance for the selected account of an user

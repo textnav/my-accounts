@@ -21,13 +21,5 @@ const config: Config.InitialOptions = {
     "./src/serviceWorker.ts",
   ],
   coverageReporters: ["json", "lcov", "text-summary", "clover"],
-  coverageThreshold: {
-    global: {
-      branches: 80,
-      functions: 80,
-      lines: 80,
-      statements: 80,
-    },
-  },
 };
 export default config;
